@@ -1,6 +1,6 @@
 # Relatório de Implementação de Serviços AWS
 
-Este repositório contém um relatório de implementação de serviços AWS focado na redução de custos para uma redistribuidora de medicamentos, desenvolvido como parte do projeto prático do Curso sobre AWS oferecido pela DIO (Digital Innovation One).
+Este repositório contém um [relatório de implementação de serviços AWS](https://github.com/GiancarloVieira/relatorio-reducao-custos-aws/blob/main/relatorio-reducao-custos-aws.md) focado na redução de custos para uma redistribuidora de medicamentos, desenvolvido como parte do projeto prático do Curso sobre AWS oferecido pela DIO (Digital Innovation One).
 
 ## Conteúdo
 
